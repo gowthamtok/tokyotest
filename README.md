@@ -1,0 +1,2 @@
+# tokyotest
+setting test script
